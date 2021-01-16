@@ -24,9 +24,9 @@ us 25 dollars while predicting the data is not yet needed when it is (a false ne
 
 
 When applying machine learning, there are many different models that can be used. Typically,
-however, models perform differently than other models when applied to different datasets. Con-
-sequently, we decided to solve our problem using three different candidate models, testing each
-approach with multiple configurations, to find the best solution. All modeling approaches take
+however, models perform differently than other models when applied to different datasets. 
+Consequently, we decided to solve our problem using three different candidate models, testing 
+each approach with multiple configurations, to find the best solution. All modeling approaches take
 into consideration the fact that an early delivery costs 25 dollars and a late delivery costs 125.
 
 [See Full Report](./Final%Project.pdf)
